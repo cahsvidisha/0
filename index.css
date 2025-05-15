@@ -1339,3 +1339,14 @@
     margin-top: -37px;
   }
 }
+.u-backlink {
+  padding: 5px 0 !important;
+  margin: 0 auto;
+  height: auto !important;
+  line-height: 1.2;
+  font-size: 14px;
+}
+
+.u-backlink p {
+  margin: 0 !important;
+}
