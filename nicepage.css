@@ -45365,7 +45365,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -48px 228px 0 auto;
+  margin: -47px 229px 0 auto;
 }
 
 .u-header .u-hamburger-link-1 {
@@ -45399,13 +45399,17 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 1rem;
   background-image: none;
   font-weight: 700;
-  margin: -37px auto 18px 996px;
+  margin: -39px auto 18px 996px;
   padding: 10px 26px;
 }
 @media (max-width: 1199px) {
+  .u-header .u-image-1 {
+    margin-left: 0;
+  }
+
   .u-header .u-menu-1 {
-    margin-top: -48px;
-    margin-right: 228px;
+    margin-top: -47px;
+    margin-right: 229px;
     margin-left: 453px;
   }
 
@@ -45511,9 +45515,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-social-icons-1 {
-  height: 23px;
-  min-height: 16px;
-  width: 46px;
+  height: 22px;
+  width: 59px;
   min-width: 94px;
   white-space: nowrap;
   margin: -23px 0 46px auto;
@@ -45539,6 +45542,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-1 {
+    min-height: 16px;
     margin-top: -23px;
   }
 }

@@ -51,6 +51,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   margin: 21px auto 0 5px;
+  padding: 19px 30px 20px;
 }
 
 @media (max-width: 1199px) {
