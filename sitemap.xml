@@ -2,11 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://www.cahsvidisha.in/Home.html</loc>
+<<<<<<< Updated upstream
         <lastmod>2025-05-19T17:46:59+05:30</lastmod>
     </url>
     <url>
         <loc>https://www.cahsvidisha.in/index.html</loc>
         <lastmod>2025-05-19T17:46:59+05:30</lastmod>
+=======
+        <lastmod>2025-05-19T12:48:34+05:30</lastmod>
+    </url>
+    <url>
+        <loc>https://www.cahsvidisha.in/index.html</loc>
+        <lastmod>2025-05-19T12:48:34+05:30</lastmod>
+>>>>>>> Stashed changes
     </url>
     <url>
         <loc>https://www.cahsvidisha.in/About.html</loc>
@@ -54,6 +62,10 @@
     </url>
     <url>
         <loc>https://www.cahsvidisha.in/blog/blog.html</loc>
+<<<<<<< Updated upstream
         <lastmod>2025-05-19T17:47:08+05:30</lastmod>
+=======
+        <lastmod>2025-05-19T12:50:59+05:30</lastmod>
+>>>>>>> Stashed changes
     </url>
 </urlset>
