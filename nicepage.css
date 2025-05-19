@@ -45466,14 +45466,14 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 154px;
+    min-height: 140px;
   }
 
   .u-header .u-image-1 {
     width: 309px;
     height: 60px;
-    margin-top: 20px;
-    margin-left: auto;
+    margin-top: 40px;
+    margin-left: 16px;
   }
 
   .u-header .u-menu-1 {
@@ -45491,7 +45491,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-btn-1 {
-    margin: 36px -50px 14px;
+    margin: 40px -50px -24px;
     padding: 8px 175px 9px 174px;
   }
 }
