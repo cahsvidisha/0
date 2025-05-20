@@ -45519,7 +45519,7 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 59px;
   min-width: 94px;
   white-space: nowrap;
-  margin: -23px 0 46px auto;
+  margin: -23px 0 47px auto;
 }
 
 .u-footer .u-icon-1 {
@@ -45580,9 +45580,9 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-social-icons-1 {
-    margin-top: -69px;
+    margin-top: 20px;
     margin-right: auto;
-    margin-bottom: 52px;
+    margin-bottom: 47px;
   }
 }
 @media (max-width: 575px) {
